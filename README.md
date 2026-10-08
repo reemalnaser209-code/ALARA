@@ -19,20 +19,19 @@ Ground-level air quality monitoring across the Gulf Cooperation Council (GCC) st
 
 ---
 
-## Quantified Regional Trends (2005–2023)
+##  Quantified Regional Trends (2005–2023)
 
 Consolidated findings from atmospheric studies highlight two distinct pollution regimes over the Arabian Peninsula:
 
 | Region / Location Type | Pollutant | Quantified Trend | Timeframe | Primary Driver |
 | :--- | :---: | :---: | :---: | :--- |
-| Urban Areas (Middle East-wide) | $\text{NO}_2$ | Up to **+12% / year** | 2005–2014 | Rapid urbanization & rising vehicle ownership. |
-| Refineries, Oil Ports, Power Plants | $\text{NO}_2$ | **+2% to +9% / year** | 2005–2014 | Expansion of energy infrastructure. |
-| Industrial Hubs (Kuwait City, Dubai) | $\text{NO}_2$ | **+$0.1 \times 10^{15}$** $\text{molec/cm}^2/\text{yr}$ | 2005–2023 | Sustained industrial throughput. |
-| Qatar, Bahrain, Dammam Corridor | $\text{NO}_2$ | **−1.7% / year** | 2018–2023 | Tightened fuel standards & cleaner power generation. |
-| Offshore Platforms (Gulf Comparison) | $\text{NO}_2$ | Up to **+25%** over background | 2004–2022 | Uncontrolled flaring & stationary power generation. |
-| Industrial Hotspots (General) | $\text{SO}_2$ | **+0.01 DU / year** | 2005–2023 | High-sulfur fuel oil consumption. |
+| Urban Areas (Middle East-wide) | NO₂ | Up to **+12% / year** | 2005–2014 | Rapid urbanization & rising vehicle ownership. |
+| Refineries, Oil Ports, Power Plants | NO₂ | **+2% to +9% / year** | 2005–2014 | Expansion of energy infrastructure. |
+| Industrial Hubs (Kuwait City, Dubai) | NO₂ | **+0.1 × 10¹⁵ molec/cm²/yr** | 2005–2023 | Sustained industrial throughput. |
+| Qatar, Bahrain, Dammam Corridor | NO₂ | **−1.7% / year** | 2018–2023 | Tightened fuel standards & cleaner power generation. |
+| Offshore Platforms (Gulf Comparison) | NO₂ | Up to **+25%** over background | 2004–2022 | Uncontrolled flaring & stationary power generation. |
+| Industrial Hotspots (General) | SO₂ | **+0.01 DU / year** | 2005–2023 | High-sulfur fuel oil consumption. |
 
 ---
 
-## Technical Workflow & Implementation
-
+##  Technical Workflow & Implementation

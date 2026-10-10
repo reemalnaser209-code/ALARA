@@ -34,4 +34,3 @@ Consolidated findings from atmospheric studies highlight two distinct pollution 
 
 ---
 
-##  Technical Workflow & Implementation
